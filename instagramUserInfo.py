@@ -1,2 +1,2 @@
-username = 'm.cancaglayan'
-password = '159753.Can'
+username = #your username
+password = #your password
